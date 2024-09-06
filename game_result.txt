@@ -1,0 +1,5 @@
+Asmita guessed the number in 7 attempts.
+swati guessed the number in 7 attempts.
+asmita guessed the number in 8 attempts.
+kiran guessed the number in 5 attempts.
+sujan guessed the number in 5 attempts.
