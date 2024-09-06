@@ -15,8 +15,7 @@ Asmita Serma Limbu :<br/>
 		 contact: 9805306211<br/>
 
 GAME STRUCTURES:<br/>
-           The game is developed using C++ and its concepts. The game starts by generating a random number within a defined range using rand() function.The attempts is initialized to 0 
-           and tracks thge number of guess made by the user. The game is played using the gameplay function :<br/>
+           The game is developed using C++ and its concepts. The game starts by generating a random number within a defined range using rand() function. The srand() function is seeded with time(0) so that after each run the secret number is different from the previous game. The attempts is initialized to 0 and tracks the number of guess made by the user. The game is played using the gameplay function :<br/>
 			     user input: The player enters their name and selects the difficulty level (easy, medium or difficult).
 			     difficulty choices: Based on the difficulty chosen, the player has a limited number of guesses:<br/>
 				                       easy level: 10 guesses<br/>
@@ -27,9 +26,9 @@ GAME STRUCTURES:<br/>
 				       If the number is guessed incorrect then the player is informed if the secret number is greater or smaller than the guessed number until the number of attempts is 
                                        completed.<br/>
 			     End of game: The game ends when the player either guesses the number or runs out of attempts.The results are then logged to a file named "game_results.txt" where the player name 
-                                         with  umber of attempts are recorded.<br/>
-			     Restart or quit: The game comtinues in a loop, allowing players to start a new game or quit by selecting appropriate options.
-		                              previous scores: Before starting a new game, the previous game results are displayed from the file.<br/>
+                                         with number of attempts are recorded.<br/>
+			     Restart or quit: The game comtinues in a loop, allowing players to start a new game or quit by selecting appropriate options.<br/>
+		             previous scores: Before starting a new game, the previous game results are displayed from the file.<br/>
 
 OUR EXPERIENCE:<br/>
                 This game is developed by me and my team as our first C++ project. Though it has many shortcomings but we thoroughly enjoyed while working in this project. It would have 
