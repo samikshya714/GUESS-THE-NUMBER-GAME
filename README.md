@@ -1,6 +1,6 @@
 # GUESS-THE-NUMBER-GAME
-Guess the number game is a fun activity in which the user has to make a guess of number between the range of 1 to 100. The user has to guess the number in a given number of attempts. This was created using OOP in C++ as the group project by first year second part engineering project organized by ACES.The game also provides hints to the user indicating whether their guess is greater or smaller than the secret number they have to guess.
-TEAM MEMBERS:
+Guess the number game is a fun activity in which the user has to make a guess of number between the range of 1 to 100. The user has to guess the number in a given number of attempts. This was created using OOP in C++ as the group project by first year second part engineering project organized by ACES.The game also provides hints to the user indicating whether their guess is greater or smaller than the secret number they have to guess.<br/>
+TEAM MEMBERS:<br/>
 Samikshya Khadka :
               github https://github.com/samikshya714
               contact:9816077380
